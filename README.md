@@ -12,7 +12,7 @@
 
 ## TLDR
 
-1. Let's practice implementing responsive design using CSS to build a few practice example pages.
+1. Let's practice implementing responsive design using CSS and build a few practice example pages.
 2. You will just be updating the `CSS` for this tutorial exercise.
 3. Modify your files, and commit the changes back to your repo.
 4. Turn on GitHub Pages.
@@ -34,13 +34,21 @@
 
 ### Step 02
 
+#### Mobile 
+
 ![Screenshot](./images/screenshot-step-02-mobile.png)
+
+#### Desktop
 
 ![Screenshot](./images/screenshot-step-02-desktop.png)
 
 ### Step 03
 
+#### Mobile 
+
 ![Screenshot](./images/screenshot-step-03-mobile.png)
+
+#### Desktop
 
 ![Screenshot](./images/screenshot-step-03-desktop.png)
 
