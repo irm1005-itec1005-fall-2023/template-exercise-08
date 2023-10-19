@@ -18,7 +18,11 @@ YOU DO NOT NEED TO MODIFY THE HTML FOR THIS EXERCISE
 
 */
 
-/* In mobile mode we don't need flex, we only need flex when the screen size gets too large */
+/*
+  In mobile mode we don't need flex, we only need flex when the screen size gets too large
+
+  Later in this file we will add a media query and we'll make this class use display: flex for larger screens so that the image and text are side by side
+*/
 .flex-split {
  display: block;
 }
@@ -39,7 +43,7 @@ YOU DO NOT NEED TO MODIFY THE HTML FOR THIS EXERCISE
 
 /*
 
-  Add a media query that targets the screen and
+  3. Add a media query that targets the screen and
   activates beyond a minimum width of 750px
 
   hint: min-width: 750px
@@ -54,6 +58,20 @@ YOU DO NOT NEED TO MODIFY THE HTML FOR THIS EXERCISE
   }
 
 */
+
+
+/* Add step 3 here */
+
+
+
+/*
+
+  That's it that's all. Now just check your work in the browser.
+  The trains and text should be side by side in desktop mode and
+  stacked on top of each other in mobile mode.
+
+*/
+
 
 /*
 
@@ -98,6 +116,7 @@ YOU DO NOT NEED TO MODIFY THE HTML FOR THIS EXERCISE
   }
 
 }
+
 /*
 
  DO NOT MODIFY
